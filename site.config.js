@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: "Chenjl's Blog",
-  domain: 'https://www.notion.so/chenjl-Blog-30eb84a9f8154cfeb710f38c9b1b8558',
+  domain: 'https://buttoned-fibula-9f5.notion.site/chenjl-Blog-30eb84a9f8154cfeb710f38c9b1b8558',
   author: 'chenjl',
 
   // open graph metadata (optional)
